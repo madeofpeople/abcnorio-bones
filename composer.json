@@ -1,7 +1,7 @@
 {
-  "name": "wpbones/wpkirk",
+  "name": " abcnorio/abcnorio-bones",
   "type": "wordpress-plugin",
-  "description": "A WP Bones Boilerplate WordPress plugin",
+  "description": "Custom functionality, post types, and taxonomies for ABCNORIO",
   "keywords": [
     "wordpress"
   ],
